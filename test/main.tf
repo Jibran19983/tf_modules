@@ -8,5 +8,5 @@
 # }
 
 module "child" {
-  source = "./child"
+  source = "../child"
 }
