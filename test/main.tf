@@ -8,5 +8,5 @@
 # }
 
 module "child" {
-  source = "git::https://github.com/Jibran19983/tf_modules.git//child?ref=master"
+  source = "./child"
 }
